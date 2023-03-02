@@ -1,0 +1,7 @@
+{
+	"editor.formatOnSave": true,
+	"licenser.license": "GPLv3",
+	"files.associations": {
+		"*.toml.example": "toml"
+	}
+}
