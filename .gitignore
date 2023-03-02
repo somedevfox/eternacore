@@ -1,0 +1,6 @@
+# Rust Compiler Artifacts
+/target
+
+# Configuration files
+/eternacore.toml
+/eternacore.json
