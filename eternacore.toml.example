@@ -1,0 +1,17 @@
+# Configure the bot
+[discord]
+token = "discord_bot_token"
+shards = 25
+
+# Show only important information
+[log.levels]
+error = true
+warn  = true
+info  = true
+debug = false
+trace = false
+
+# Make log output pretty (◕ᴗ◕✿)
+[log]
+format = "%l | %t > %m"
+debug  = false # Disable logs from API wrapper (also they're disabled by default)
